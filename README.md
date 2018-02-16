@@ -150,7 +150,7 @@ Rest of core projects requires both config-server and discovery-service. It is i
 
 #### 10. Run **routing-service**
 
-```cd ~/Deskop/spring-cloud-training/routing-service && ./mvnw spring-boot:run``` and open in browser port: *9030* [http://localhost:9090](http://localhost:9090)
+```cd ~/Deskop/spring-cloud-training/routing-service && ./mvnw spring-boot:run``` and open in browser port: *9090* [http://localhost:9090](http://localhost:9090)
 
 #### 11. Install http-server
 
